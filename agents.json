@@ -2,7 +2,7 @@
   {
     "id": "xixi",
     "name": "xixi",
-    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-xixi",
+    "workspace": "C:\\Users\\<YOUR_USER>\\.openclaw\\workspace-taizi",
     "agentDir": "C:\\Users\\<YOUR_USER>\\.openclaw\\agents\\xixi\\agent",
     "subagents": {
       "allowAgents": ["zhongshu"]
